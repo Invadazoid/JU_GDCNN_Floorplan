@@ -1,0 +1,15 @@
+armchair
+bed
+door1
+sink1
+sink2
+sink3
+sink4
+sofa1
+sofa2
+table1
+table2
+table3
+tub
+window1
+window2
